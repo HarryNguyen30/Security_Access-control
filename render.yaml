@@ -1,0 +1,8 @@
+# Render Blueprint: đặt startCommand rõ ràng (tránh nhập nhầm "Procfile" trong dashboard)
+services:
+  - type: web
+    name: seng2250-a3
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn --chdir src server:app --bind 0.0.0.0:$PORT --workers 1
