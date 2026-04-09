@@ -1,2 +1,2 @@
 root: {'username': 'root', 'email': 'root@email.com', 'password': b'$2b$12$1OZzsimerv.3WTbbcBbBQ.HFJ6NXcQXrY8GUecK9jIQtmZFlWKIj.', 'group': 'admin', 'security_level': 3}
-
+Troy: {'username': 'Troy', 'email': 'nhatthienngo041@gmail.com', 'password': b'$2b$12$HqXPNMeXuzBXi2vGdcPrw.YtCCbeFHHq/xdIJPVzcb7gcY0HovqfG', 'group': 'Finance', 'security_level': 1}
