@@ -1,0 +1,15 @@
+Shopping: 100$
+
+Utility: 300$ 
+
+Travel: 1000$
+
+Rent: 3000$
+
+Maintainance: 155$
+
+Repairing: 100$
+
+Testing: 123231$
+
+Testing_2 : 1231232$

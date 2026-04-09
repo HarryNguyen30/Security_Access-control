@@ -1,0 +1,8 @@
+Troy(20/10): 5 hours
+Harry(21/10): 8 hours
+Miko(21/10): 3 hours
+Linn(21/10): 7 hours
+Harry(22/10): 3 hours
+Harry(28/10): 12 hours
+Jasmin(28/10): 8 hours
+Troy(28/10): 10 hours
