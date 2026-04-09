@@ -1,3 +1,2 @@
 root: {'username': 'root', 'email': 'root@email.com', 'password': b'$2b$12$1OZzsimerv.3WTbbcBbBQ.HFJ6NXcQXrY8GUecK9jIQtmZFlWKIj.', 'group': 'admin', 'security_level': 3}
-Harry: {'username': 'Harry', 'email': 'tiennguyen30122003@gmail.com', 'password': b'$2b$12$S5/g9UHWsc0XKjTVixdOGeYAoLZ4alPwGEeia2EdxvXXAq1eq2ACC', 'group': 'tester', 'security_level': 2}
-Troy: {'username': 'Troy', 'email': 'nhatthienngo041@gmail.com', 'password': b'$2b$12$HqXPNMeXuzBXi2vGdcPrw.YtCCbeFHHq/xdIJPVzcb7gcY0HovqfG', 'group': 'Finance', 'security_level': 1}
+
